@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mpk/!svn/ver/10/lzma/lzma/7zip/Compress/Branch
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mpk/!svn/ver/10/lzma/lzma/7zip/Compress/Branch/StdAfx.h
+END
+BranchPPC.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mpk/!svn/ver/10/lzma/lzma/7zip/Compress/Branch/BranchPPC.c
+END
+BranchARMThumb.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mpk/!svn/ver/10/lzma/lzma/7zip/Compress/Branch/BranchARMThumb.h
+END
+BranchARM.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mpk/!svn/ver/10/lzma/lzma/7zip/Compress/Branch/BranchARM.h
+END
+BranchX86.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mpk/!svn/ver/10/lzma/lzma/7zip/Compress/Branch/BranchX86.c
+END
+IA64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mpk/!svn/ver/10/lzma/lzma/7zip/Compress/Branch/IA64.cpp
+END
+BranchPPC.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mpk/!svn/ver/10/lzma/lzma/7zip/Compress/Branch/BranchPPC.h
+END
+x86_2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mpk/!svn/ver/10/lzma/lzma/7zip/Compress/Branch/x86_2.cpp
+END
+BranchX86.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mpk/!svn/ver/10/lzma/lzma/7zip/Compress/Branch/BranchX86.h
+END
+IA64.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mpk/!svn/ver/10/lzma/lzma/7zip/Compress/Branch/IA64.h
+END
+SPARC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mpk/!svn/ver/10/lzma/lzma/7zip/Compress/Branch/SPARC.cpp
+END
+BranchCoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mpk/!svn/ver/10/lzma/lzma/7zip/Compress/Branch/BranchCoder.cpp
+END
+x86_2.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mpk/!svn/ver/10/lzma/lzma/7zip/Compress/Branch/x86_2.h
+END
+SPARC.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mpk/!svn/ver/10/lzma/lzma/7zip/Compress/Branch/SPARC.h
+END
+BranchCoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mpk/!svn/ver/10/lzma/lzma/7zip/Compress/Branch/BranchCoder.h
+END
+ARMThumb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mpk/!svn/ver/10/lzma/lzma/7zip/Compress/Branch/ARMThumb.cpp
+END
+ARM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mpk/!svn/ver/10/lzma/lzma/7zip/Compress/Branch/ARM.cpp
+END
+BranchIA64.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mpk/!svn/ver/10/lzma/lzma/7zip/Compress/Branch/BranchIA64.c
+END
+PPC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mpk/!svn/ver/10/lzma/lzma/7zip/Compress/Branch/PPC.cpp
+END
+ARMThumb.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mpk/!svn/ver/10/lzma/lzma/7zip/Compress/Branch/ARMThumb.h
+END
+ARM.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mpk/!svn/ver/10/lzma/lzma/7zip/Compress/Branch/ARM.h
+END
+x86.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mpk/!svn/ver/10/lzma/lzma/7zip/Compress/Branch/x86.cpp
+END
+BranchSPARC.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mpk/!svn/ver/10/lzma/lzma/7zip/Compress/Branch/BranchSPARC.c
+END
+BranchIA64.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mpk/!svn/ver/10/lzma/lzma/7zip/Compress/Branch/BranchIA64.h
+END
+PPC.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mpk/!svn/ver/10/lzma/lzma/7zip/Compress/Branch/PPC.h
+END
+x86.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mpk/!svn/ver/10/lzma/lzma/7zip/Compress/Branch/x86.h
+END
+BranchSPARC.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mpk/!svn/ver/10/lzma/lzma/7zip/Compress/Branch/BranchSPARC.h
+END
+BranchARMThumb.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mpk/!svn/ver/10/lzma/lzma/7zip/Compress/Branch/BranchARMThumb.c
+END
+BranchARM.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mpk/!svn/ver/10/lzma/lzma/7zip/Compress/Branch/BranchARM.c
+END
